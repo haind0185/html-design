@@ -489,3 +489,9 @@ ul >li > a {
 .f-s-25 {
 	font-size: 25px;
 }
+
+.bg-gray-white {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background: #f1f2f2;
+}
