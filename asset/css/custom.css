@@ -215,6 +215,10 @@ ul >li > a {
 	margin-top: 24px;
 }
 
+.title-cc a {
+	color: #58585a;
+}
+
 .list-content-cc {
 	list-style-type: none;
 	padding-left: 0px;
